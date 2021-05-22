@@ -91,10 +91,4 @@ function showNotes() {
 
   });
 
-  /*
-  Further feature:-
-  1.Add title
-  2.Mark as a important
-  3.Seperate notes by user
-  3.sync and host to web server
-  */
+  
